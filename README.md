@@ -201,21 +201,6 @@ There are still some things I would like to add to the starter:
 
 Feel free to open an issue for suggestions.
 
-## Worth checking
-
-### Other starters
-
-- [rnn-starter](https://github.com/kanzitelli/rnn-starter) - 🤹 Production-ready starter for React Native App! Powered by cli-rn, React Native Navigation, RN UI lib, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
-- [rn-starter](https://github.com/kanzitelli/rn-starter) - 🦄 Production-ready starter for React Native App! Powered by cli-rn, React Navigation (v6), RN UI lib, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
-
-> Icons have been generated with [BuildIcon](https://buildicon.netlify.app) created by [Evan Bacon](https://github.com/EvanBacon).
-
-### Articles
-
-- "Build React Native Apps with Simplified and Predictable Navigation" - [Medium](https://kanzitelli.medium.com/build-react-native-apps-with-simplified-and-predictable-navigation-2859f047f29e), [Dev.to](https://dev.to/kanzitelli/build-react-native-apps-with-simplified-and-predictable-navigation-5b3j)
-- "Testing React Native apps with zero effort" - [Medium](https://kanzitelli.medium.com/cli-rn-making-rn-app-developing-experience-as-smooth-as-possible-1022aae3a0d3), [Dev.to](https://dev.to/kanzitelli/cli-rn-making-rn-app-developing-experience-as-smooth-as-possible-4e98)
-- "Expo + React Native Navigation? Yes!" - [Medium](https://kanzitelli.medium.com/expo-react-native-navigation-yes-ebda0cbfa4b1), [Dev.to](https://dev.to/kanzitelli/expo-react-native-navigation-1pll)
-
 ## Why
 
 ...do we need yet another starter/boilerplate? Well, I work with React Native for more than 4 years and during the time I started having my own project structure which was a good fit for almost all of the delivered apps. Also, I have come up with some custom [useful services/methods](#useful-servicesmethods) which simplify usage of [React Navigation](https://github.com/react-navigation/react-navigation) and other libraries. Check out [Advantages](#advantages) section.
