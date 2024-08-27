@@ -1,4 +1,4 @@
-import {Dimensions} from 'react-native';
+import { Dimensions } from 'react-native';
 
 export const useConstants = () => {
   const dim = Dimensions.get('screen');
@@ -6,8 +6,8 @@ export const useConstants = () => {
   return {
     dim,
     links: {
-      github: 'https://github.com/kanzitelli/expo-starter',
-      website: 'https://github.com/kanzitelli/expo-starter',
+      github: 'https://github.com/marekbukoski/Expo-Starter-Kit-Advanced-React-Native-Template',
+      website: 'https://github.com/marekbukoski/Expo-Starter-Kit-Advanced-React-Native-Template',
     },
   };
 };
